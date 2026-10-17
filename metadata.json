@@ -1,0 +1,6 @@
+{
+  "name": "FrostPlow 3D — Cozy Snow Plowing Simulator",
+  "description": "Cozy 3D isometric snow-plowing game with upgrades, combo multipliers, synth sound effects, fuel management, seasonal unlocks, and procedural suburban neighborhoods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
